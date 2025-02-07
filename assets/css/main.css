@@ -3180,6 +3180,8 @@ p.team-post {
   margin: 5px 0 0px 0 !important;
 }
 h3.head-icon {
+  padding-top: 10px;
+  white-space: pre;
   font-size: 13px;
   font-weight: 700;
 }

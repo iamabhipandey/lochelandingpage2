@@ -3312,3 +3312,13 @@ form.php-email-form h4 {
   font-weight: 600;
   margin-bottom: 15px;
 }
+@media only screen and (max-width: 600px) {
+  .for-bigscreen{
+    display: none !important;
+  }
+}
+@media only screen and (min-width: 600px) {
+  .for-mobile{
+    display: none !important;
+  }
+}
